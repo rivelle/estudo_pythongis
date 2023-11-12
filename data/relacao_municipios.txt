@@ -1,0 +1,97 @@
+Relação de Municípios com a situação de emergência vigente por estiagem.
+
+1	Anagé	
+2	Andaraí	
+3	Andorinha	
+4	Aracatu	
+5	Araci	
+6	Barra	
+7	Barro Alto	
+8	Belo Campo	
+9	Boa Nova	
+10	Boa Vista do Tupim	
+11	Bom Jesus da Lapa	
+12	Bom Jesus da Serra	
+13	Brotas de Macaúbas	
+14	Brumado	
+15	Buritirama	
+16	Caetanos	
+17	Campo Alegre de Lourdes	
+18	Candido Sales	
+19	Cansanção	
+20	Canudos	
+21	Capela do Alto Alegre	
+22	Caraíbas	
+23	Casa Nova	
+24	Chorrochó	
+25	Coribe	
+26	Coronel João Sá	
+27	Cotegipe	
+28	Curaçá	
+29	Dom Basílio	
+30	Guajeru	
+31	Guanambi	
+32	Ibiassucê	
+33	Ibitiara	
+34	Ibotirama	
+35	Igaporã	
+36	Irajuba	
+37	Itaberaba	
+38	Itiuba	
+39	Iuiu	
+40	Jaguarari	
+41	Jeremoabo	
+42	Juazeiro	
+43	Lajedo do Tabocal	
+44	Livramento de N° Senhora	
+45	Macaúbas	
+46	Macururé	
+47	Maetinga	
+48	Malhada	
+49	Mansidão	
+50	Maracás	
+51	Marcionilio de Souza	
+52	Mirante	
+53	Monte Santo	
+54	Mortugaba	
+55	Muquém de São Francisco	
+56	Nordestina	
+57	Oliveira dos Brejinhos	
+58	Paramirim	
+59	Pedro Alexandre	
+60	Pilão Arcado	
+61	Piripá	
+62	Planaltino	
+63	Planalto	
+64	Poções	
+65	Ponto Novo	
+66	Presidente Jânio quadros	
+67	Queimadas	
+68	Rafael Jambeiro	
+69	Remanso	
+70	Riacho de Santana	
+71	Rio do Antônio	
+72	Santa Brigida	
+73	Santa Maria da Vitória	
+74	Santaluz	
+75	São Domingos	
+77	Senhor do Bonfim	
+78	Sento Sé	
+79	Serra Preta	
+80	Sitio do Mato	
+81	Tanhaçu	
+82	Tanque Novo	
+83	Tremedal	
+84	Uauá	
+85	Urandi	
+86	Valente	
+87	Vitoria da Conquista	
+88	Xique-Xique	
+89	Campo Formoso	
+90	Manoel Vitorino	
+91	Ipirá	
+92	Palmas de MOnte Alto	
+93	Quijingue	
+94	Nova Fátima	
+95	Lagoa Real	
+96	Gavião
