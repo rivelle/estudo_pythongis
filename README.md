@@ -1,2 +1,2 @@
 # pythongis
-Repositório criado para disponibilização de códigos desenvolvidos com uso da linguagem python aplicada ao geoprocesamento.
+Repositório criado com práticas e exercícios de estudo da linguagem python aplicada ao geoprocessamento.
